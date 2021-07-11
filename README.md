@@ -19,4 +19,6 @@ Bonus Part
 
 2.It's so hard to figure out how to put the table inside the database into Dataframe.
 
+3.Spend most of the time on how to use engine and make connection.
+
 MY NAME IS APRIL FOOLSDAY HHHHHHHHH, I GET IT!!
