@@ -1,11 +1,11 @@
 # sql_challenge
 data engineering/data analysis/data modeling
 
-Data Mpdeling
+# Data Mpdeling
 
 The most difficult part is how to find the primary key and also the foreign along with it. Initially I thought that the emp_no as a primary key should be listed into the employees csv, but I've been through several failure when I try to import. Actually, emp_no inside Salaries should be the primary key.
 
-Data Analysis
+# Data Analysis
 
 1. Basically most of the questions can be answered by using JOIN
 
@@ -13,7 +13,7 @@ Data Analysis
 
 3.Also it's very hard to seperate the query file and table file...
 
-Bonus Part
+# Bonus Part
 
 1.It's interesting to access your own database by using python.
 
@@ -21,4 +21,5 @@ Bonus Part
 
 3.Spend most of the time on how to use engine and make connection.
 
-MY NAME IS APRIL FOOLSDAY HHHHHHHHH, I GET IT!!
+
+# MY NAME IS APRIL FOOLSDAY HHHHHHHHH, I GET IT!!
